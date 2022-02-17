@@ -7,4 +7,6 @@
  * Tailwind CSS
  * React bootstrap
  * JWt Token
- 
+ * Powerful UI design and better user experience.
+ * Responsive design
+ * Better performance for PC or mobile device
